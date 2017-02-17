@@ -1,0 +1,1 @@
+Takes the ability to shout (post) in the shoutbox away from specific members. 
